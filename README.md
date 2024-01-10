@@ -3,10 +3,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/r.png"/>
-<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/r.png"/>
-<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/r.png"/>
-<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/r.png"/>
+<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/c.png"/>
+<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/d.png"/>
+<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/e.png"/>
+<img width="450px;" src="https://github.com/phantu820/Pan-portfolio/blob/master/img/f.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
