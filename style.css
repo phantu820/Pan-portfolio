@@ -286,6 +286,7 @@ section {
 .img-hero img {
     position: relative;
     width: 400px;
+    margin-top: 4.6rem;
     height: auto;
     z-index: 10;
 }
